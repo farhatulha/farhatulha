@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @farhatulha
 - 👀 I’m interested in CX and Data
 - 🌱 I’m currently learning Data Analyst
-- 💞️ I’m looking to collaborate on CX, CRM and Data Analyst
 - 📫 How to reach me farhatul.h.a@gmail.com
 
 <!---
